@@ -1,0 +1,31 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+textarea {
+  font-family: Arial;
+}
+
+.form-ingres{
+  border-radius: 5%;
+  border-color: green;
+  padding: 8px;
+  border-style: double;    
+}
+
+.search-div{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  justify-content:flex-end;
+}
+

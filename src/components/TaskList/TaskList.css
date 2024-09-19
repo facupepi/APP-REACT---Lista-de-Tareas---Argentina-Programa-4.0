@@ -1,0 +1,21 @@
+.list-div {
+    margin-top: 20px;
+}
+
+.list-h1 {
+    color: #57277e;
+    display: flex;
+    justify-content: center;
+}
+
+.list-h2 {
+    color: #ff0000;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 250px){
+    .list-h2 {
+        font-size: 15px;
+    }
+}
